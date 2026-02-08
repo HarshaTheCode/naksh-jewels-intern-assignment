@@ -1,0 +1,18 @@
+.product-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.CartButton {
+  display: inline-block;
+  padding: 10px 16px;
+  background: #1ae10c;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  margin-bottom: 10px;
+}
+
